@@ -1,0 +1,8 @@
+footer {
+  @include flex-center;
+  background-color: white;
+  color: black;
+  .container {
+    width: fit-content;
+  }
+}
