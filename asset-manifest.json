@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/miss-cocktails/static/css/main.a03a9459.css",
+    "main.js": "/miss-cocktails/static/js/main.afc72bd0.js",
+    "static/js/787.887c022c.chunk.js": "/miss-cocktails/static/js/787.887c022c.chunk.js",
+    "static/media/cocktail-3.jpg": "/miss-cocktails/static/media/cocktail-3.01b4b59e32bdb27568dc.jpg",
+    "static/media/cocktail-1.jpg": "/miss-cocktails/static/media/cocktail-1.2305b3e648d23ef2e55d.jpg",
+    "static/media/cocktail-2.jpg": "/miss-cocktails/static/media/cocktail-2.ad0d1abdbe8238b5803c.jpg",
+    "static/media/homepage.mp4": "/miss-cocktails/static/media/homepage.24a6b21667e3e8584cbc.mp4",
+    "static/media/homepge.jpg": "/miss-cocktails/static/media/homepge.048bafd5d3d067890906.jpg",
+    "static/media/cocktail.jpeg": "/miss-cocktails/static/media/cocktail.0e665e1fbce4e725a0f4.jpeg",
+    "static/media/Cormorant-SemiBold.ttf": "/miss-cocktails/static/media/Cormorant-SemiBold.949e3c1866de5bd4eb3a.ttf",
+    "static/media/Cormorant-Bold.ttf": "/miss-cocktails/static/media/Cormorant-Bold.d1c508eab0cba804314e.ttf",
+    "static/media/Cormorant-Regular.ttf": "/miss-cocktails/static/media/Cormorant-Regular.e9fa398859551cac7432.ttf",
+    "static/media/RobotoCondensed-Regular.ttf": "/miss-cocktails/static/media/RobotoCondensed-Regular.fc3d2f2e3a203d0037c1.ttf",
+    "static/media/RobotoCondensed-Bold.ttf": "/miss-cocktails/static/media/RobotoCondensed-Bold.c5fe6deebafaec078e64.ttf",
+    "static/media/logo.png": "/miss-cocktails/static/media/logo.e0fac8842aff8e4534b4.png",
+    "static/media/user.png": "/miss-cocktails/static/media/user.a6143582309785dca610.png",
+    "static/media/Add.svg": "/miss-cocktails/static/media/Add.c7d4e0963ac0e89527a78607999af582.svg",
+    "index.html": "/miss-cocktails/index.html",
+    "static/media/Search.svg": "/miss-cocktails/static/media/Search.0a8111db663f7ede2e535e19fbda24dc.svg",
+    "static/media/Trash.svg": "/miss-cocktails/static/media/Trash.4f425984b9ea7418b993351185bcb1ff.svg",
+    "static/media/Edit.svg": "/miss-cocktails/static/media/Edit.c86c9f8a36bc681bce1607127e071aee.svg",
+    "static/media/Back.svg": "/miss-cocktails/static/media/Back.e1ad6ec2ebf6af26f95db1a66727c077.svg",
+    "main.a03a9459.css.map": "/miss-cocktails/static/css/main.a03a9459.css.map",
+    "main.afc72bd0.js.map": "/miss-cocktails/static/js/main.afc72bd0.js.map",
+    "787.887c022c.chunk.js.map": "/miss-cocktails/static/js/787.887c022c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03a9459.css",
+    "static/js/main.afc72bd0.js"
+  ]
+}
